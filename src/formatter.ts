@@ -3,7 +3,7 @@ import * as vscode from "vscode";
 enum TokenType {
     Invalid
   , Word
-  , Assignment      // = += -= *= /=
+  , Assignment      // = += -= *= /= ?=
   , Arrow           // =>
   , Block           // {} [] ()
   , PartialBlock    // { [ (
@@ -49,7 +49,7 @@ function whitespace( count ) {
 export default class Formatter {
 
   /* Align:
-   *   operators = += -= *= /= :
+   *   operators = += -= *= /= ?=:
    *   trailling comment
    *   preceding comma
    * Ignore anything inside a quote, comment, or block
