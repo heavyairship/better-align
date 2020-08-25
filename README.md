@@ -1,12 +1,12 @@
 # Better Align
 
-[![Current Version](http://vsmarketplacebadge.apphb.com/version-short/wwm.better-align.svg)](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
-[![Install Count](http://vsmarketplacebadge.apphb.com/installs-short/wwm.better-align.svg)](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
-[![Rating](http://vsmarketplacebadge.apphb.com/rating-short/wwm.better-align.svg)](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
+[![Current Version](https://vsmarketplacebadge.apphb.com/version-short/wwm.better-align.svg)](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
+[![Install Count](https://vsmarketplacebadge.apphb.com/installs-short/wwm.better-align.svg)](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/wwm.better-align.svg)](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
 
 ## Features
 
-Align your code by colon(`:`), assignment(`=`,`+=`,`-=`,`*=`,`/=`) and arrow(`=>`).
+Align your code by colon(`:`), assignment(`=`,`+=`,`-=`,`*=`,`/=`,`?=`,`:=`,`<=`) and arrow(`=>`).
 It has additional support for comma-first coding style and trailing comment.
 
 And it doesn't require you to select what to be aligned, the extension will figure it out by itself.
